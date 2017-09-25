@@ -4,6 +4,10 @@
 ## References
 * [Wikipedia link](https://en.wikipedia.org/wiki/Kalah)
 
+## Heroku (free) deployment
+
+http://gentle-brook-23279.herokuapp.com/kalah/
+
 
 ## Game Description
 ### Overview
