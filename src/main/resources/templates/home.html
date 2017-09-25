@@ -2,14 +2,19 @@
 <html
         xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Kalah</title>
+    <head>
+        <title>Kalah</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    </head>
 </head>
 
 <body>
 <h1>Kalah Game</h1>
 
 <form th:action="@{/newgame}" method="get" id="HOME_HTML_FORM_ID">
-    <input type="submit" value="Start new game" />
+    <input type="submit" class="btn btn-success btn-lg active" value="Start new game" />
 </form>
 
 </body>
