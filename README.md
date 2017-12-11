@@ -4,6 +4,9 @@
 ## References
 * [Wikipedia link](https://en.wikipedia.org/wiki/Kalah)
 
+## Github 
+https://github.com/SteveH1UK/kalah 
+
 ## Heroku (free) deployment
 
 http://gentle-brook-23279.herokuapp.com/kalah/
